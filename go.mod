@@ -1,3 +1,3 @@
-module github.com/jackptoke/cryptit.git
+module github.com/jackptoke/cryptit
 
 go 1.22.2

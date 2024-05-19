@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/jackptoke/cryptit.git/decrypt"
-	"github.com/jackptoke/cryptit.git/encrypt"
+	"github.com/jackptoke/cryptit/decrypt"
+	"github.com/jackptoke/cryptit/encrypt"
 )
 
 func main() {
